@@ -1,3 +1,2 @@
 # practicaExepcionesPOOJAVA
-"""swift 
-adsada"""
+Repositorio para la practica de excepciones en el lenguaje de programacion java 
